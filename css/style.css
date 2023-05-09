@@ -158,3 +158,20 @@ footer {
     width: 50px;
     height: 50px;
 }
+/* --------------------------------------------------------- */
+.cart{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top:30px ;
+}
+ .cart  table{
+    width: 100%;
+ }
+ .cart table  thead tr th:first-child{
+    text-align: left;
+ }
+ .cart table tr td {
+    border-bottom: 1px solid red;
+    padding: 12px;
+ }
